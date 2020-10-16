@@ -4,6 +4,11 @@ public class Product {
 	int productId;
 	String productName;
 	String productDescription;
+  int Quantity;
+	double price;
+	
+	public double getPrice(){
+
 	
 	
 	
