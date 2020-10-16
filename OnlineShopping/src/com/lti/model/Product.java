@@ -4,16 +4,12 @@ public class Product {
 	int productId;
 	String productName;
 	String productDescription;
-	int Quantity;
+  int Quantity;
 	double price;
 	
 	public double getPrice(){
-		return price;
-	}
+
 	
-	public int getQuantity(){
-		return quantity;
-	}
 	
 	
 	public int getProductId() {
